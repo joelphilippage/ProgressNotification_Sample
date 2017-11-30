@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="podcast_padding">74dp</dimen>
+    <dimen name="podcast_view_size">56dp</dimen>
+    <dimen name="discover_padding">34dp</dimen>
+    <dimen name="now_playing_padding">4dp</dimen>
+    <dimen name="round_padding_bottom">12dp</dimen>
+    <dimen name="square_chin_padding_bottom">4dp</dimen>
+</resources>

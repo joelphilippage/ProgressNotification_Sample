@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_items_array_names">
+        <item>settings</item>
+        <item>discover</item>
+        <item>podcastSearchResults</item>
+        <item>downloads</item>
+    </string-array>
+
+    <string-array name="settings">
+        <item>Settings</item>
+        <item>ic_settings_white_24dp</item>
+    </string-array>
+    <string-array name="discover">
+        <item>Discover</item>
+        <item>ic_search_white_24dp</item>
+    </string-array>
+    <string-array name="podcastSearchResults">
+        <item>Podcasts</item>
+        <item>ic_mic_white_24dp</item>
+    </string-array>
+    <string-array name="downloads">
+        <item>Downloads</item>
+        <item>ic_file_download_white_24dp</item>
+    </string-array>
+</resources>

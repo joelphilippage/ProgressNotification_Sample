@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#ffdf80</color>
+    <color name="colorAccent">#ffdf80</color>
+    <color name="active_ui_element">#a67e05</color>
+    <color name="lighter_ui_element">#8c6a04</color>
+    <color name="darker_ui_element">#664d03</color>
+    <color name="lighter_background">#4d342a</color>
+    <color name="dark_background">#261a15</color>
+    <color name="transparent">#000000</color>
+    <color name="black">#000000</color>
+
+    <color name="adaptive_color">#a67e05</color>
+    <color name="default_text">#89FFFFFF</color>
+</resources>

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">ProgressNotificationSample</string>
+
+    <!--Buttons-->
+    <string name="un_subscribe">Un-subscribe</string>
+    <string name="all_played">Mark All Played</string>
+    <string name="all_un_played">Mark All Un-played</string>
+    <string name="search_prompt">Podcast title or feed URL?</string>
+
+    <!--Messages-->
+    <string name="no_podcasts">No podcasts found</string>
+    <string name="no_network">Please connect to network</string>
+    <string name="no_episodes">No episodes found</string>
+    <string name="no_description">No Description</string>
+    <string name="episode_added">Added to up next</string>
+    <string name="unknown">Unknown</string>
+    <string name="unable_to_save">Unable to save: Out of memory.</string>
+    <string name="importing_podcasts">Importing Podcasts</string>
+    <string name="take_a_while">This might take a while</string>
+    <string name="no_storage">Couldn\'t access storage. Is it mounted?</string>
+    <string name="download_failed">Download failed</string>
+    <string name="streaming_episode">Streaming Episode</string>
+    <string name="playing_episode">Playing Episode</string>
+    <string name="could_not_make_podcast">Could not make podcast from feed</string>
+
+    <!--Settings-->
+    <string name="auto_delete">Auto-delete played episodes</string>
+    <string name="confirm_metered">Confirm metered downloads</string>
+    <string name="auto_download">Auto-Download new episodes on charge</string>
+    <string name="import_opml">Import OPML backup</string>
+    <string name="clear_podcasts_folder">Clear Podcasts Folder</string>
+    <string name="clear_description">Useful if app data was cleared without deleting podcasts</string>
+
+    <!--Confirmation Dialogs-->
+    <string name="metered_connection_confirmation">Your connection is set as metered. Would you like to download?</string>
+    <string name="connect_to_wifi">Connect to Wi-Fi</string>
+    <string name="to_download_podcasts">To download podcasts</string>
+    <string name="add_network">Add network</string>
+
+    <!-- Review Strings -->
+    <string name="enjoying">🎄Enjoying </string>
+    <string name="rating">Give me a rating.🎁</string>
+</resources>
